@@ -37,7 +37,8 @@ If you already have Ubuntu Terminal (windows users) and pip installed, skip this
 1. Visual Studio Code (VS Code) code editor is a lightweight and user-friendly tool to edit code. If you already have it installed, skip this step. Otherwise, download and install VS Code for your particular OS [here](https://code.visualstudio.com/Download).
 2. Fork this repo to your own GitHub account (Don't know what fork is or how to fork? Check [this](https://docs.github.com/get-started/quickstart/fork-a-repo#forking-a-repository) out)
 3. Clone the forked repo with HTTPS to your computer, just like how you do in CSC226 and CSC236.
-4. Based on what terminal/OS you use, do the following to create a virtual environment:
+4. Navigate to the project folder you just cloned `cd personal-website`
+5. Based on what terminal/OS you use, do the following to create a virtual environment:
   
     Windows:
       
