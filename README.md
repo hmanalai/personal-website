@@ -73,8 +73,12 @@ If you already have Ubuntu Terminal (windows users) and pip installed, skip this
       
       **PowerShell users on Windows**:
       * Navigate to the cloned directory on your terminal `cd personal-website`
-      * If you have `pip` installed, run the command `pip install virtualenv`. If not, run `python -m venv venv` OR `python3 -m venv venv`. This step creates a virtual environment
-      * Run `.\venv\Scripts\activate` to activate the virtual environment
+      * If you have `pip` installed
+         * run the command `pip install virtualenv` 
+         * run `virtualenv venv` to create the virutal environment. 
+      * If you do not have `pip` installed
+         * run `python -m venv venv` OR `python3 -m venv venv`. This step creates a virtual environment
+      * Run `source .\venv\Scripts\activate` to activate the virtual environment
     
     **Mac users**: Use the Mac terminal.
       * Navigate to the cloned directory on your terminal `cd personal-website`
