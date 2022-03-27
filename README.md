@@ -41,12 +41,19 @@ If you already have Ubuntu Terminal (windows users) and pip installed, skip this
    If you are using Ubuntu Terminal on Windows:
    1. Open a new Ubuntu terminal. 
    2. Run the following commands
+ 
       `cd ../..`
+      
       `cd /mnt/c/Users/[YOU-USERNAME]/Desktop/`
+      
       `git clone https://github.com/[YOUR-USERNAME]/personal-website.git`
 
    If you are using Powershell Terminal on Windows:
+   1. Open a new Powershell terminal. 
+   2. Run the following commands
+   
       `cd .\Desktop\`
+      
       `git clone https://github.com/[YOUR-USERNAME]/personal-website.git`
    
 
